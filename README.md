@@ -18,7 +18,7 @@
 ### Frontend
 1. Navigare nella directory del frontend:
     ```bash
-    cd EsameWeb2/RestDb
+    cd EsameWeb2/Frontend
     ```
 2. Installare le dipendenze:
     ```bash
@@ -26,12 +26,16 @@
     ```
 
 ### Backend
-1. Creare un ambiente virtuale (opzionale ma consigliato):
+1. Navigare nella directory del frontend:
+    ```bash
+    cd EsameWeb2/Backend
+    ```
+2. Creare un ambiente virtuale (opzionale ma consigliato):
     ```bash
     python3 -m venv venv
     source venv/bin/activate  # Su Windows usare `venv\Scripts\activate`
     ```
-2. Installare le dipendenze:
+3. Installare le dipendenze:
     ```bash
     pip install flask psycopg
     ```
@@ -47,5 +51,5 @@
 ### Frontend
 1. Avviare il server di sviluppo React:
     ```bash
-    npm start
+    npm run dev
     ```
