@@ -1,0 +1,15 @@
+{
+  "columns": ["fine", "id", "inizio", "nome", "progetto"],
+  "records": [
+    ["Sun, 31 Dec 2000 00:00:00 GMT", 0, "Sat, 01 Jan 2000 00:00:00 GMT", "WP1", 0],
+    ["Mon, 31 Dec 2001 00:00:00 GMT", 1, "Mon, 01 Jan 2001 00:00:00 GMT", "WP2", 0],
+    ["Tue, 31 Dec 2002 00:00:00 GMT", 2, "Tue, 01 Jan 2002 00:00:00 GMT", "WP3", 0],
+    ["Mon, 31 Dec 2012 00:00:00 GMT", 0, "Sun, 01 Jan 2012 00:00:00 GMT", "WP1", 1],
+    ["Mon, 31 Dec 2012 00:00:00 GMT", 1, "Sun, 01 Jan 2012 00:00:00 GMT", "WP2", 1],
+    ["Tue, 31 Dec 2013 00:00:00 GMT", 2, "Tue, 01 Jan 2013 00:00:00 GMT", "WP3", 1],
+    ["Wed, 31 Dec 2003 00:00:00 GMT", 1, "Fri, 01 Jan 1999 00:00:00 GMT", "Main Activity", 2],
+    ["Mon, 31 Dec 2012 00:00:00 GMT", 0, "Sun, 01 Jan 2012 00:00:00 GMT", "State of the Art", 3],
+    ["Tue, 31 Dec 2013 00:00:00 GMT", 1, "Tue, 01 Jan 2013 00:00:00 GMT", "Main Research", 3],
+    ["Mon, 17 Mar 2014 00:00:00 GMT", 2, "Wed, 01 Jan 2014 00:00:00 GMT", "Dissemination", 3]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "columns": ["cognome", "id", "nome", "posizione", "stipendio"],
+  "records": [
+    ["Bianchi", 0, "Anna", "Ricercatore", 45500.3],
+    ["Rossi", 1, "Mario", "Ricercatore", 35500.0],
+    ["Burso", 2, "Barbara", "Ricercatore", 40442.5],
+    ["Spada", 3, "Gino", "Ricercatore", 35870.9],
+    ["Bianchi", 4, "Aurora", "Professore Associato", 43500.5],
+    ["Spensierato", 5, "Guido", "Professore Associato", 38221.0],
+    ["Ferrari", 6, "Consolata", "Professore Associato", 29200.1],
+    ["Verona", 7, "Andrea", "Professore Associato", 39002.05],
+    ["Giordano", 8, "Asia", "Professore Ordinario", 45200.1],
+    ["Zante", 9, "Carlo", "Professore Ordinario", 40230.0],
+    ["Riva", 10, "Ginevra", "Professore Ordinario", 39955.0],
+    ["Quadro", 11, "Davide", "Professore Ordinario", 36922.1],
+    ["Basile", 12, "Dario", "Ricercatore", 42566.0],
+    ["Donati", 13, "Silvia", "Professore Ordinario", 38005.0],
+    ["Martino", 14, "Fiorella", "Professore Associato", 35544.5],
+    ["Vitali", 15, "Leonardo", "Professore Ordinario", 38779.8],
+    ["Valentini", 16, "Paolo", "Professore Associato", 39200.0],
+    ["Greco", 17, "Emilio", "Professore Associato", 42020.0],
+    ["Costa", 18, "Giulia", "Ricercatore", 40220.0],
+    ["Longo", 19, "Elisa", "Professore Associato", 39001.0],
+    ["Martinelli", 20, "Carla", "Ricercatore", 42030.2]
+  ]
+}

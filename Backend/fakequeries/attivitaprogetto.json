@@ -1,0 +1,16 @@
+{
+  "columns": ["giorno", "id", "oredurata", "persona", "progetto", "tipo", "wp"],
+  "records": [
+    ["Sun, 15 Apr 2012 00:00:00 GMT", 0, 8, 0, 1, "Ricerca e Sviluppo", 0],
+    ["Mon, 16 Apr 2012 00:00:00 GMT", 1, 8, 0, 1, "Ricerca e Sviluppo", 0],
+    ["Tue, 17 Apr 2012 00:00:00 GMT", 2, 8, 0, 1, "Ricerca e Sviluppo", 0],
+    ["Wed, 18 Apr 2012 00:00:00 GMT", 3, 8, 0, 1, "Ricerca e Sviluppo", 0],
+    ["Fri, 15 Mar 2013 00:00:00 GMT", 4, 8, 8, 1, "Dimostrazione", 2],
+    ["Sun, 03 Jun 2012 00:00:00 GMT", 5, 8, 10, 1, "Ricerca e Sviluppo", 0],
+    ["Sun, 22 Apr 2012 00:00:00 GMT", 6, 7, 2, 1, "Dimostrazione", 1],
+    ["Sat, 19 Jan 2013 00:00:00 GMT", 7, 6, 4, 3, "Management", 1],
+    ["Sat, 15 Feb 2014 00:00:00 GMT", 8, 5, 11, 3, "Altro", 2],
+    ["Sat, 08 Mar 2014 00:00:00 GMT", 9, 6, 0, 3, "Ricerca e Sviluppo", 2],
+    ["Wed, 19 Jan 2000 00:00:00 GMT", 10, 2, 4, 2, "Management", 1]
+  ]
+}
